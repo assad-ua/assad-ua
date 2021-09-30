@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @assad-ua
-- 👀 I’m interested in QML
-- 🌱 I’m currently learning QML
+- 👀 I’m interested in Quantum Machine Learning
+- 🌱 I’m currently busy with ML / DL algos and learning how to do it in the Q way
 - 💞️ I’m looking to collaborate on QML repositories  
 - 📫 How to reach me assad.ussama@gmail.com
 
