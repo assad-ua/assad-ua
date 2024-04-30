@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @assad-ua
-- 👀 I’m interested in Quantum Machine Learning
-- 🌱 I’m currently busy with ML / DL algos and learning how to do it in the Q way
-- 💞️ I’m looking to collaborate on QML repositories  
-- 📫 How to reach me ua@synclab.ai
+- 👀I research quantum computing
+- 🌱 I’m currently working on development of AI Agents and AI assistants
+- 💞️ My goal is learning. I am learning to use quantum computing with AI, GenAI, AI-Agents
+- 📫 How to reach me assad.ussama@gmail.com
+- My https://www.linkedin.com/in/assadua/
+- I am leading BrewAI as my team
 
 <!---
 assad-ua/assad-ua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
