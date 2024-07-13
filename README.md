@@ -4,7 +4,7 @@
 - 💞️ My goal is learning. I am learning to use quantum computing with AI, GenAI, AI-Agents
 - 📫 How to reach me assad.ussama@gmail.com
 - My https://www.linkedin.com/in/assadua/
-- I am leading BrewAI as my team
+- Founder at Devix AI
 
 <!---
 assad-ua/assad-ua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
